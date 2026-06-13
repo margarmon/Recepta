@@ -1,0 +1,53 @@
+{
+  "short_name": "CuinaReel",
+  "name": "CuinaReel – El teu receptari digital",
+  "description": "Receptari intel·ligent amb planificació setmanal, nutrició i llista de la compra",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#08090A",
+  "theme_color": "#00E5C8",
+  "orientation": "portrait",
+  "scope": "/",
+  "lang": "ca",
+  "icons": [
+    {
+      "src": "icons/icon-72.png",
+      "sizes": "72x72",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-96.png",
+      "sizes": "96x96",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-128.png",
+      "sizes": "128x128",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-144.png",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["food", "lifestyle", "utilities"],
+  "screenshots": [],
+  "prefer_related_applications": false
+}
