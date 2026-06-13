@@ -1,6 +1,6 @@
 {
-  "short_name": "CuinaReel",
-  "name": "CuinaReel – El teu receptari digital",
+  "short_name": "Recepta",
+  "name": "Recepta – El teu receptari digital",
   "description": "Receptari intel·ligent amb planificació setmanal, nutrició i llista de la compra",
   "start_url": ".",
   "display": "standalone",
@@ -48,6 +48,14 @@
     }
   ],
   "categories": ["food", "lifestyle", "utilities"],
-  "screenshots": [],
-  "prefer_related_applications": false
+  "prefer_related_applications": false,
+  "share_target": {
+    "action": "/Recepta/",
+    "method": "GET",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url"
+    }
+  }
 }
